@@ -62,4 +62,4 @@ Rohan_2026:
     - testing_automation: "continuous"
 🌐 Connect to Network
 <p align="center"> <a href="https://www.linkedin.com/in/rohan-shrestha-9b11501aa"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00E6,50:8000FF,100:0FF0FC&height=120&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00E6,50:8000FF,100:0FF0FC&height=120&section=footer"/> </p>
