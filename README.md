@@ -1,161 +1,65 @@
-<h1 align="center">👋 Hi, I'm <strong>Rohan Shrestha</strong></h1>
+<!-- CYBERPUNK README 2077 -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ROHAN%20SHRESTHA&fontAlignY=40&color=gradient&customColorList=0:8000FF,40:0FF0FC,100:FF00E6&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20•%20FRONTEND%20%7C%20REAL-TIME%20SYSTEMS&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<p align="center">🚀 Software Engineer | Frontend Specialist | Scalable Systems Enthusiast</p>
-
----
-
-### 🧑‍💻 About Me
-- Building modern web apps with **React, Next.js, and Tailwind**
-- Experienced in **real-time features** (Socket.IO / WebSockets) and **data-heavy dashboards**
-- Passionate about **clean architecture, DX, and scalability**
-- Currently focused on **performance optimization, caching & pagination, microservices**
-- Love solving problems, questioning assumptions & improving systems
-
----
-
-### ⚙️ Tech Stack
-
-**Frontend**
-<div>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,html,css,js,ts,bootstrap" />
-</div>
-
-**Backend**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongodb,postgres,firebase" />
-</div>
-
-**DevOps & Tools**
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,postman,git,github,vscode" />
-</div>
-
-**Other Skills**
-- React Query (TanStack), Zustand
-- Socket.IO (real-time events)
-- Leaflet Maps
-- Husky + Linting + Pre-commit
-
----
-
-### 📍 Highlight Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Lead Management System** | Role-based dashboard, real-time updates, task ops, map filters | React, React Query, Socket.IO, Prisma |
-| **Connection Team Dashboard (Native)** | Task status, connection map, real-time counters | React Native, Socket.IO |
-| **AutismSansar** | Bilingual landing page for autism support | Next.js, Tailwind, i18n |
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohansthaart&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=3000&color=0FF0FC&center=true&vCenter=true&width=550&lines=%3E%3E+Initializing+Portfolio...;%3E%3E+Loading+Skills...;%3E%3E+Connected+to+Rohan's+Cyber+Neural+Network" />
 </p>
 
----
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/rohan-shrestha-9b11501aa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  Rohan Shrestha | Software Engineer              ┃
+┃  Frontend • Next.js • Prisma • Real-time Systems ┃
+┃  Kathmandu, Nepal                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+🧑‍💻 About Me
+⚡ Building reactive systems that feel alive.
+🛰 Turning data into decisions — fast, real-time, meaningful.
+🔧 Designing systems that scale. Not just work.
 
----
+🎯 Architecture-first mindset with Next.js
 
-### 🧠 2026 Goals
-- Build & ship **SaaS product**
-- Master **microservices & event-driven architecture**
-- Become extremely good at **system design**
-- Improve code quality through **testing & automation**
+🧠 Passion for DX, caching, pagination, microservices
 
----
+🧩 Pattern thinker → builder → optimizer
 
-### 🪄 Fun Fact
-> I write code like I solve puzzles — by exploring patterns, breaking assumptions, and finding the most elegant path.
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer"/>
-
-🚀 If you'd like, I can also:
-✔️ create a minimal logo banner with your name
-✔️ help you build a portfolio version of this README
-✔️ generate a tech skills infographic
-
-Would you like a GitHub profile cover image in a tech/theme style? If yes — what vibe?
-(Options: Cyberpunk / Minimal / Gradient Glass / Neon / Terminal / Clean UI)
-
-
-
-
-
-
-
-You said:
-enhance design make it modern cyberpunk looking remove hero image withsomething else
-
-
-ChatGPT said:
-Awesome — here’s a cyberpunk-themed, more modern README that removes the hero GIF and replaces it with a neon cyberpunk banner (ASCII style + gradient headers).
-This fits the 2026 aesthetic: neon, glitch, terminal, hacker energy.
-
-🚀 Enhanced Cyberpunk README (copy below)
-md
+⚙️ Tech Weaponry
+🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js,html,css" />
+🧵 Backend / Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongodb,postgres,firebase" />
+🛰️ DevOps / Infra
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,git,github" />
+🧰 Additional Expertise
+sql
 Copy code
-<!-- Cyberpunk Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ROHAN%20SHRESTHA&fontAlignY=40&color=gradient&customColorList=0:0ea5e9,40:7e22ce,100:f43f5e&fontColor=ffffff&desc=Software%20Engineer%20•%20Frontend%20Specialist%20•%20Scalable%20Systems&descAlignY=60&animation=twinkling"/>
-</p>
+Real-time (Socket.IO)
+React Query & Zustand
+Infinite Scroll & Pagination
+Leaflet Maps
+Husky, Linting & Pre-commit Automation
+🎛️ Featured Systems
+System	Area	Impact
+📡 Real-time Lead Management System	LMS + Dashboards	Socket-driven ops + timeline logging
+🌍 Native Ops Map Interface	Location Tasks	Live task routing & coordinate sync
+🧠 AutismSansar	Accessibility	Bilingual Nepal/English; performance-first
 
-```ascii
-██╗  ██╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗
-██║  ██║██╔═══██╗██║  ██║██╔══██╗████╗  ██║
-███████║██║   ██║███████║███████║██╔██╗ ██║
-██╔══██║██║   ██║██╔══██║██╔══██║██║╚██╗██║
-██║  ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-<p align="center"> <strong><sub>⚡ Software Engineer • Frontend & Real-time Systems • Next.js / Prisma / Socket.IO ⚡</sub></strong> </p>
-🧑‍💻 Who Am I
-A system-oriented engineer, building scalable apps with modern toolchains.
-Obsessed with real-time data, DX optimization, and clean architecture.
-
-🧠 Always experimenting: caching, pagination, microservices
-
-⚙️ I like to design systems that think ahead
-
-🎯 Building dashboards, LMS, and mission-critical tools
-
-💾 Tech Arsenal
-⚡ Frontend
-
-⚙️ Backend / DB
-
-🛰 DevOps + Tools
-
-🎯 Current Interests
-Real-time Systems • Scalable Routing • Event-driven Architecture • Queue Systems
-
-📦 Featured Builds
-Project	Description	Core Stack
-LMS with Real-time Ops	Lead tracking, task automation, role-based dashboards	React, Prisma, Socket.IO
-Connection Dashboard (Native)	Field task mapping with real-time counters	React Native, Leaflet
-AutismSansar	Bilingual accessible site (English/Nepali)	Next.js, Tailwind
-
-📊 Performance Snapshot
-<p align="center"> <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=rohansthaart&theme=tokyonight&hide_border=true" /> <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🔗 Connect
-<a href="https://www.linkedin.com/in/rohan-shrestha-9b11501aa"> <img src="https://img.shields.io/badge/LinkedIn-Cyberpunk%20Network-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-🚀 My 2026 Quest
+📊 Cyber Diagnostics
+<p align="center"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=rohansthaart&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🧠 2026 Skill Tree
 yaml
 Copy code
-Leveling Up:
-  - Build a production SaaS 🎛️
-  - Master microservices & queues 📡
-  - Build personal design system 🎨
-  - Improve testing automation 🧪
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:f43f5e,50:7e22ce,100:0ea5e9&height=120&section=footer"/> </p> ```
+Rohan_2026:
+  mastery:
+    - system_design
+    - real_time_architecture
+    - performance_engineering
+  goals:
+    - SaaS_product: "in_progress"
+    - design_system: "drafting"
+    - testing_automation: "continuous"
+🌐 Connect to Network
+<p align="center"> <a href="https://www.linkedin.com/in/rohan-shrestha-9b11501aa"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00E6,50:8000FF,100:0FF0FC&height=120&section=footer"/> </p> ```
