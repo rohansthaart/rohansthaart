@@ -397,6 +397,29 @@ Applications become easier to scale when responsibilities are clearly defined.
 A good feature should improve the overall user workflow rather than exist in isolation.
 
 ---
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=rohansthaart&theme=tokyonight&hide_border=true"
+  alt="Rohan's GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 💻 Most Used Technologies
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
+
+</div>
 
 # 📊 GitHub Stats
 
