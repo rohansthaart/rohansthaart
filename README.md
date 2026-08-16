@@ -53,7 +53,6 @@ These projects reflect my interest in building complete products — from user e
 ---
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rohansthaart)](https://github.com/anuraghazra/github-readme-stats)
 ## 🍽️ KhajaQR
 
 ### QR-Based Restaurant Management & Ordering Platform
