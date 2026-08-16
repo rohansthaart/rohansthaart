@@ -1,208 +1,499 @@
-<h1 align="center">Hi 👋, I'm Rohan Shrestha</h1>
+# Rohan Shrestha — GitHub Profile README
 
-<h3 align="center">
-Software Engineer • Full-Stack Developer • System Design Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-I build scalable web & mobile applications, backend systems, real-time platforms and developer-friendly APIs.
-</p>
+# 👋 Hi, I'm **Rohan Shrestha**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohan-shrestha-9b11501aa">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+### Software Engineer • Full-Stack Developer • Product Builder
 
-  <a href="https://github.com/rohansthaart">
-    <img src="https://img.shields.io/badge/GitHub-rohansthaart-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+I build **production-ready web & mobile applications**, scalable backend systems, real-time platforms, and developer-friendly APIs.
+
+<br />
+
+<a href="https://github.com/rohansthaart">
+  <img src="https://img.shields.io/badge/GitHub-rohansthaart-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rohan-shrestha-9b11501aa">
+  <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Shrestha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=rohansthaart&label=Profile%20Views&color=6366f1&style=flat" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a software engineer focused on building **production-ready applications and scalable systems**.
+I'm a software engineer focused on building applications that are not only functional, but also **scalable, maintainable, fast, and pleasant to use**.
 
-I enjoy working across the stack — from modern React interfaces and React Native applications to APIs, databases, real-time systems and backend architecture.
+I enjoy working across the entire application lifecycle:
 
-Currently exploring deeper into:
+* 🎨 Building modern web interfaces
+* 📱 Creating mobile applications with React Native
+* ⚙️ Designing APIs and backend services
+* 🗄️ Modeling relational databases
+* ⚡ Building real-time systems
+* 🐳 Containerizing and deploying applications
+* 📍 Working with maps, GPS and geofencing
+* 🧠 Designing scalable system architecture
+* 🔄 Exploring microservices and event-driven systems
 
-* 🏗️ System Design & Distributed Systems
-* ⚡ Microservices & Event-Driven Architecture
-* 🔄 Real-Time Applications
-* 🚀 Backend Performance & Scalability
-* 🗄️ Database Design & Query Optimization
-* 🐳 Dockerized Infrastructure
-* 📱 React Native Applications
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,bootstrap" />
-</p>
-
-**Also using:**
-React Query / TanStack Query • Zustand • Expo • React Native
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,firebase" />
-</p>
-
-**Architecture & APIs:**
-REST APIs • JWT Authentication • RBAC • Webhooks • Socket.IO • Microservices
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,nginx,git,github,postman,vscode" />
-</p>
-
-**Other tools:**
-PM2 • Linux • Husky • ESLint • Prettier • CI/CD
+I particularly enjoy solving problems involving **architecture, performance, data flow, scalability and developer experience**.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Products I'm Building
 
-### 📊 Lead Management System
-
-Enterprise-style lead management platform with role-based access and operational workflows.
-
-**Highlights**
-
-* Role-based access control
-* Lead lifecycle & task management
-* Real-time status updates
-* Grid/location-based filtering
-* Interactive maps
-* KYC workflows
-* Dashboard analytics
-
-**Tech**
-
-`React` `Node.js` `Prisma` `PostgreSQL` `React Query` `Socket.IO`
+These projects reflect my interest in building complete products — from user experience to backend architecture.
 
 ---
 
-### 📍 Attendance & Geo Tracking Platform
+## 🍽️ KhajaQR
 
-Location-based attendance and employee route-tracking system designed using a separate service architecture.
+### QR-Based Restaurant Management & Ordering Platform
 
-**Highlights**
+**KhajaQR** is a restaurant platform designed around QR-based ordering, table management and restaurant operations.
 
-* GPS attendance
-* Geofence validation
-* Employee route tracking
-* Leave & attendance requests
-* Role-based geofence management
-* LMS integration
-* Webhook-based user synchronization
-* Attendance reporting architecture
+The goal is to simplify how restaurants manage customers, tables, orders and staff while providing customers with a fast digital ordering experience.
 
-**Tech**
+### ✨ Features
 
-`Node.js` `Prisma` `PostgreSQL` `React Native` `Expo` `JWT`
+* 📱 QR-based digital menu
+* 🍽️ Table-specific QR ordering
+* 🧾 Restaurant order management
+* 👨‍🍳 Kitchen Order Ticket workflow
+* 🧑‍💼 Manager and staff roles
+* 🛒 Manual order entry
+* 💳 Billing and checkout workflow
+* 🪑 Table management
+* 🍔 Menu and category management
+* 📦 Inventory-ready architecture
+* 🔄 Real-time order updates
+* 🔔 Live restaurant events
+* 📊 Restaurant analytics
+* 🏪 Multi-restaurant architecture
+* 🔐 Role-based authentication
 
----
+### 🧰 Tech
 
-### 📱 Connection Team Mobile App
-
-React Native application for operational field teams.
-
-**Highlights**
-
-* Assigned task management
-* Connection status workflow
-* Map-based task visualization
-* Real-time counters
-* Backend API integration
-* Role-aware application experience
-
-**Tech**
-
-`React Native` `Expo` `React Query` `Socket.IO`
+`React Native` `NextJS` `Expo` `Node.js` `TypeScript` `PostgreSQL` `Prisma` `Socket.IO`
 
 ---
 
-### 🌐 AutismSansar
+## 💰 ClipExpense
 
-Bilingual web platform focused on autism awareness and support.
+### Simple & Fast Personal Expense Tracking
 
-**Highlights**
+**ClipExpense** is designed to make everyday expense tracking simple, quick and visually understandable.
 
-* Responsive UI
-* Nepali & English localization
-* Accessible content structure
-* SEO-friendly architecture
+The focus is reducing the friction normally associated with personal finance apps.
 
-**Tech**
+### ✨ Features
+
+* 💸 Expense tracking
+* 🏷️ Expense categorization
+* 📆 Date-based transaction history
+* 📊 Spending summaries
+* 🔍 Expense filtering
+* 📱 Mobile-friendly UX
+* ⚡ Fast transaction entry
+* 📈 Financial insights
+
+### 🎯 Product Goal
+
+Make recording expenses fast enough that users actually keep using the application consistently.
+
+---
+
+## 👛 ClipPocket
+
+### Personal Money & Wallet Management
+
+**ClipPocket** focuses on providing users with a simple overview of their everyday money.
+
+It is designed around the idea that personal finance tools should feel lightweight instead of overwhelming.
+
+### ✨ Features
+
+* 👛 Wallet management
+* 💵 Income tracking
+* 💸 Expense tracking
+* 🔄 Transaction history
+* 📊 Financial overview
+* 🏷️ Categories
+* 📱 Mobile-first experience
+* 🔎 Search and filtering
+
+### 🎯 Product Goal
+
+Provide a clean financial dashboard for managing everyday money without unnecessary complexity.
+
+---
+
+## 🎁 Kasthara
+
+### Personalized Products & Custom Merchandise Store
+
+**Kasthara** is an e-commerce platform focused on customized products, personalized gifts, laser engraving and custom merchandise.
+
+### ✨ Features
+
+* 🛍️ Product catalog
+* 🎨 Personalized product options
+* 🧩 Dynamic categories
+* 🎁 Gift collections
+* 🪵 Laser engraving products
+* 🔑 Custom keyrings
+* 🏢 Corporate gift products
+* 💬 Custom-order inquiry flow
+* 📱 WhatsApp-based ordering
+* 🖼️ Product image galleries
+* 🔎 SEO-friendly product pages
+* 📱 Responsive storefront
+
+### 🧰 Tech
+
+`Next.js` `TypeScript` `Tailwind CSS` `Sanity CMS`
+
+---
+
+# 🏗️ Enterprise Systems
+
+Alongside product development, I work on larger operational platforms involving role-based access, real-time updates, workflow automation and field operations.
+
+---
+
+## 📊 Lead Management System
+
+An enterprise lead-management platform designed around the full customer acquisition workflow.
+
+### ✨ Features
+
+* 👥 Role-based access control
+* 📋 Lead lifecycle management
+* 🧾 KYC verification workflows
+* 📍 Grid and location-based access
+* 🗺️ Map-based lead visualization
+* 🧑‍🔧 Task assignment
+* 🔄 Real-time lead updates
+* 📊 Operational dashboards
+* 🔔 Event-driven updates
+* 📑 Timeline and activity tracking
+* 🔍 Advanced filters
+* 📤 Reporting and exports
+
+### 🧰 Tech
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `React Query` `Socket.IO`
+
+---
+
+## 📍 Attendance & Geo Tracking Platform
+
+A backend and mobile platform for field employee attendance, geofencing and movement tracking.
+
+### ✨ Features
+
+* 📍 GPS-based attendance
+* 🧭 Employee route tracking
+* 🗺️ Geofence management
+* ✅ Geofence-based check-in validation
+* ⏰ Attendance schedules
+* 🌴 Leave management
+* 📝 Attendance correction requests
+* 👥 Role-based geofence assignment
+* 🔄 User synchronization
+* 🔔 Webhook-driven integrations
+* 📊 Attendance reporting
+* 🧩 Microservice-oriented architecture
+
+### 🧰 Tech
+
+`Node.js` `TypeScript` `PostgreSQL` `Prisma` `React Native` `Expo` `JWT`
+
+---
+
+## 📱 Connection Team Mobile App
+
+A React Native application built for field connection teams to manage daily operational tasks.
+
+### ✨ Features
+
+* 📋 Assigned task management
+* 📍 Customer location visualization
+* 🗺️ Map-based task navigation
+* ✅ Task status workflow
+* 🔄 Real-time counters
+* 👷 Field employee workflows
+* 🔐 Role-based application behavior
+* 📡 Backend API integration
+* 📲 Mobile-first field experience
+
+### 🧰 Tech
+
+`React Native` `Expo` `TypeScript` `React Query` `Socket.IO`
+
+---
+
+## 🌐 AutismSansar
+
+A bilingual informational platform focused on autism awareness, support and accessible information.
+
+### ✨ Features
+
+* 🇳🇵 Nepali content
+* 🇬🇧 English content
+* 🌍 Internationalization
+* 📱 Responsive design
+* ♿ Accessibility-focused structure
+* 🔎 SEO-friendly architecture
+
+### 🧰 Tech
 
 `Next.js` `Tailwind CSS` `i18n`
 
 ---
 
-## 🧠 What I'm Learning
+# ⚙️ Tech Stack
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,bootstrap" />
+</p>
+
+Additional tools:
+
+`React Query` • `TanStack Query` • `Zustand` • `React Native` • `Expo`
+
+---
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,firebase" />
+</p>
+
+I frequently work with:
+
+`REST APIs` • `JWT` • `RBAC` • `Webhooks` • `Socket.IO` • `Microservices`
+
+---
+
+## 🗄️ Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+</p>
+
+Areas I focus on:
+
+* Relational data modeling
+* Prisma ORM
+* Database indexing
+* Query optimization
+* Pagination
+* Transactions
+* Caching strategies
+* Data synchronization
+
+---
+
+## ☁️ DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,nginx,git,github,linux,postman,vscode" />
+</p>
+
+Additional tools:
+
+`PM2` • `Nginx` • `Docker` • `Linux` • `GitHub Actions` • `CI/CD`
+
+---
+
+# ⚡ What I Like Building
 
 ```text
-Distributed Systems
-├── Microservices
-├── Message Queues
-├── Event-Driven Architecture
-├── Caching Strategies
-├── Database Scaling
-├── API Gateway Patterns
-└── Observability
+Applications
+│
+├── SaaS Products
+├── Enterprise Dashboards
+├── Mobile Applications
+├── Real-Time Platforms
+├── Location-Based Systems
+├── REST APIs
+├── Internal Tools
+└── Data-Heavy Applications
 ```
 
 ---
 
-## 📊 GitHub
+# 🧠 Architecture Interests
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=rohansthaart&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+I spend a lot of time learning how applications behave once they grow beyond a simple CRUD system.
 
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight&hide_border=true"
- height="165"
+```text
+Scalable Systems
+│
+├── Microservices
+├── Event-Driven Architecture
+├── API Gateways
+├── Message Queues
+├── Webhooks
+├── Real-Time Events
+├── Distributed Caching
+├── Database Scaling
+├── Background Jobs
+├── Observability
+└── Fault-Tolerant Systems
+```
+
+---
+
+# 🔄 Current Focus
+
+I'm currently improving my knowledge around:
+
+* 🏗️ System design
+* ⚡ Backend performance
+* 🧩 Microservices architecture
+* 📡 Event-driven systems
+* 📨 Message queues
+* 🔄 Webhook architecture
+* 🧠 Caching strategies
+* 📊 Database optimization
+* 🧪 Automated testing
+* 🚀 Production deployment
+* 📈 Application observability
+
+---
+
+# 🛠️ Engineering Principles
+
+Some principles I try to follow when building software:
+
+### Keep things simple
+
+Complex architecture should solve a real problem — not create one.
+
+### Design for maintainability
+
+Code should be understandable by the next developer who works on it.
+
+### Measure before optimizing
+
+Performance decisions should be based on actual bottlenecks.
+
+### Separate responsibilities
+
+Applications become easier to scale when responsibilities are clearly defined.
+
+### Build products, not just features
+
+A good feature should improve the overall user workflow rather than exist in isolation.
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=rohansthaart&show_icons=true&theme=tokyonight&hide_border=true"
+height="165"
 />
 
-</p>
+<img
+src="https://github-readme-streak-stats.herokuapp.com?user=rohansthaart&theme=tokyonight&hide_border=true"
+height="165"
+/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 GitHub Trophies
 
-* 🚀 Launch a production SaaS product
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohansthaart&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Launch and grow a production SaaS product
 * 🏗️ Become highly proficient in system design
-* ⚡ Build scalable microservice architectures
-* 🧪 Improve automated testing practices
-* 🔄 Build more event-driven systems
-* 🌍 Ship products used by real users
+* ⚡ Design scalable backend architectures
+* 🔄 Build production event-driven systems
+* 🧩 Improve microservice architecture knowledge
+* 🧪 Increase automated testing coverage
+* 📊 Improve application observability
+* 🌍 Build products used by users internationally
+* 📱 Ship more production mobile applications
+* 💡 Turn more ideas into real products
 
 ---
 
-## 💡 Engineering Philosophy
+# 💡 Engineering Philosophy
 
-> Build simple systems first.
-> Measure where they break.
-> Scale only where necessary.
+> **Build the simplest system that solves the problem.
+> Measure where it fails.
+> Improve the architecture when reality demands it.**
 
-I enjoy understanding **why a system works**, where it can fail, and how to make it simpler, faster and easier to maintain.
+I enjoy understanding not just **how to make something work**, but also:
+
+* Why it works
+* Where it might fail
+* How it behaves at scale
+* How easily another developer can maintain it
+* Whether the architecture can remain simple
 
 ---
+
+# 🤝 Let's Connect
+
+I'm always interested in conversations around:
+
+`Software Engineering` • `SaaS` • `System Design` • `React` • `Node.js` • `Microservices` • `Product Development`
 
 <p align="center">
-  <b>Building • Learning • Shipping • Improving</b>
+
+<a href="https://www.linkedin.com/in/rohan-shrestha-9b11501aa">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rohansthaart">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer"/>
+---
+
+<div align="center">
+
+### `Building • Learning • Shipping • Improving`
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer"/>
+
+</div>
