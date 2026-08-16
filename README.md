@@ -410,55 +410,6 @@ A good feature should improve the overall user workflow rather than exist in iso
 
 ---
 
-## 💻 Most Used Technologies
-
-<div align="center">
-
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rohansthaart)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=rohansthaart&show_icons=true&theme=tokyonight&hide_border=true"
-height="165"
-/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=rohansthaart&theme=tokyonight&hide_border=true"
-height="165"
-/>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight&hide_border=true"
-height="170"
-/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohansthaart&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 * 🚀 Launch and grow a production SaaS product
