@@ -414,10 +414,9 @@ A good feature should improve the overall user workflow rather than exist in iso
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Top Languages"
-/>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rohansthaart)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
