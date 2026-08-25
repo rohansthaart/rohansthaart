@@ -403,7 +403,7 @@ A good feature should improve the overall user workflow rather than exist in iso
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=rohansthaart&theme=tokyonight&hide_border=true"
+  src="[https://streak-stats.demolab.com?user=rohansthaart&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=rohansthaart&theme=tokyonight)"
   alt="Rohan's GitHub Streak"
 />
 
