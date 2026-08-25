@@ -400,14 +400,14 @@ A good feature should improve the overall user workflow rather than exist in iso
 ---
 ## 📊 GitHub Activity
 
-<div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rohansthaart&theme=tokyonight"
-  alt="Rohan's GitHub Streak"
-/>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohansthaart&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansthaart&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+
 
 ---
 
